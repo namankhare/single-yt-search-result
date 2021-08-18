@@ -1,6 +1,6 @@
 {
   "name": "single-yt-search-result",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Fetch single search result from the YouTube",
   "main": "search_yt.js",
   "scripts": {
