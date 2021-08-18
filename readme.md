@@ -17,7 +17,7 @@ Easily create a bot using this module.
 npm install single-yt-search-result@latest
 ```
 ```js
-const singleYtResult = require("./search_yt")
+const singleYtResult = require("single-yt-search-result")
 
 //Fetch result and save it to the file
 singleYtResult.search("kurta pajama", "exportfilename.json")
