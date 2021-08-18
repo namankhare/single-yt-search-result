@@ -1,0 +1,15 @@
+{
+  "name": "single-yt-search-result",
+  "version": "1.0.0",
+  "description": "Fetch single search result from the YouTube",
+  "main": "search_yt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["youtube search result", "youtube json result", "single youtube result"],
+  "author": "Naman Khare <naman@getsetblog.com> (https://namankhare.com/)",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
