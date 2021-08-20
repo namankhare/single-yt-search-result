@@ -1,10 +1,14 @@
 {
   "name": "single-yt-search-result",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Fetch single search result from the YouTube",
   "main": "search_yt.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namankhare/single-yt-search-result.git"
   },
   "keywords": [
     "youtube search result",
@@ -13,6 +17,7 @@
   ],
   "author": "Naman Khare <naman@getsetblog.com> (https://namankhare.com/)",
   "license": "ISC",
+  "homepage": "https://github.com/namankhare/single-yt-search-result#readme",
   "dependencies": {
     "node-fetch": "^2.6.1"
   }
